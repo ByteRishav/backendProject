@@ -1,0 +1,13 @@
+// nodemon(dependency) : it is an utility use to automatically restart the server whenever the backend
+//                      code will manipulate or update otherwise we have to restart the terminal frequently
+// we can intall it as dependency as well as Dev dependency 
+
+// Dependency : means in production it will push on git
+// Dev-Dependency : on in developing time it will be in use (npm i -D nodemon)
+
+// but how nodemon will detect that on which of the file automode is ..
+// so in scripts set : "dev" : "nodemon src/index.js"
+
+
+
+

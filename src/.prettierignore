@@ -1,0 +1,12 @@
+# dont change the vscode settings
+/.vscode
+# dont change the node_modules files
+/node_modules
+# dont change the distribution
+./dist
+
+
+# all the environment file dont touch
+*.env  
+.env
+.env.*

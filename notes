@@ -9,5 +9,9 @@
 // so in scripts set : "dev" : "nodemon src/index.js"
 
 
+// 2 points to be noted :1. during intracting with database the error can be so code of connection should be wrap in trycatch
+            //           2. database is in another continent (like codebase in USA and database is in Mumbai)
+            //  so for 2nd thing , always do the async await and trycatch is must
+
 
 
